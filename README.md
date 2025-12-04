@@ -1,11 +1,9 @@
-doc: https://docs.ts.injective.network/
+💼 Contact & Purchase
 
-faucet: https://testnet.faucet.injective.network/
+🔹 Buy Now: [Telegram](https://t.me/meomundep)
 
-interact: https://multivm.injective.com/
+🔹 Fast & Direct – No Unnecessary Talk or Silly Question.
 
-borderless: https://dev.bswap.in/swap
+📌 Serious buyers only. Let's keep it professional! 🚀
 
-pumex: https://testnet.pumex.fi/
-
-yei finance: https://lite.yei.finance/
+🌐 [Injective Testnet Link](https://multivm.injective.com/)
